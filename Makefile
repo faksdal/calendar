@@ -15,7 +15,7 @@
 #
 #	$(patsubst PATTERN,REPLACEMENT,TEXT)
 ####################################################################################################
-TARGET = cal
+TARGET = ts
 CXX = g++
 CPPFLAGS = -Iinc -I. -g -Wall
 
